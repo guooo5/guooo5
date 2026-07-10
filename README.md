@@ -2,7 +2,7 @@
 
 <div align="center">
   <p>
-    <strong> 📚 CS Student @ Stony Brook University | 💻  Software Engineer </strong>
+    <strong> 📚 CS Student @ Stony Brook University |  💻  Aspiring Software Engineer </strong>
   </p>
 </div>
 

@@ -64,9 +64,9 @@ Fun Facts:
 
 <div align="center">
   <p>
-    <strong>💡 "Code is poetry written in logic" 💡</strong>
+    <strong>💡 "Journey before Destination" - Brandon Sanderson💡</strong>
   </p>
   <p>
-    Made with ❤️ by <a href="https://github.com/imakash3011">Akash Patel</a>
+    Made with ❤️ by <a href="[https://github.com/guooo5](https://github.com/guooo5)">Guo Chen</a>
   </p>
 </div>

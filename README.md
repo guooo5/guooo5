@@ -1,16 +1,70 @@
-## Hi there 👋
+# 👋 Hi, I'm Guo Chen 
 
-<!--
-**guooo5/guooo5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <p>
+    <strong> 📚 CS Student @ Stony Brook University | 💻  Software Engineer </strong>
+  </p>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 About Me
+
+I love learning and turning my ideas into reality by building whatever I can imagine. I am currently seeking a software engineering internship for Spring or Summer 2027.
+
+Fun Facts:
+<ul>
+  <li>Have played basketball since I was 10</li>
+  <li>Reader (currently going through Stormlight Archive)</li>
+  <li>I have a sister who's 10 years older than me</li>
+</ul>
+
+---
+
+## 🛠️ Tech Stack
+
+### Core Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+### ML & Data Science
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+</p>
+
+### Cloud & Big Data
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
+
+### Web & Deployment
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://github.com/guooo05" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/guo-chen-37b113218/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <p>
+    <strong>💡 "Code is poetry written in logic" 💡</strong>
+  </p>
+  <p>
+    Made with ❤️ by <a href="https://github.com/imakash3011">Akash Patel</a>
+  </p>
+</div>

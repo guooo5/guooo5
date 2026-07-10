@@ -10,7 +10,7 @@
 
 ## 🎯 About Me
 
-I love learning and turning my ideas into reality by building whatever I can imagine. I am currently seeking a software engineering internship for Spring or Summer 2027.
+I love learning and turning my ideas into reality by building whatever I can imagine. I am currently seeking a software engineering internship for Spring and Summer 2027.
 
 Fun Facts:
 <ul>

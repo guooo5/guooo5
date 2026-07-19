@@ -19,6 +19,11 @@ Fun Facts:
   <li>I have a sister who's 10 years older than me</li>
 </ul>
 
+Currently:
+<ul>
+  <li>Learning AI through Google DeepMind: AI Research Foundations</li>
+  <li>Reading "The Will of the Many"</li>
+</ul>
 ---
 
 ## 🛠️ Tech Stack

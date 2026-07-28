@@ -22,7 +22,7 @@ Fun Facts:
 Currently:
 <ul>
   <li>Learning AI through Google DeepMind: AI Research Foundations</li>
-  <li>Reading "The Will of the Many"</li>
+  <li>Reading "Oathbringer"</li>
 </ul>
 ---
 

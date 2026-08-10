@@ -64,14 +64,3 @@ Currently:
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
-
----
-
-<div align="center">
-  <p>
-    <strong>💡 "Journey before Destination" - Brandon Sanderson💡</strong>
-  </p>
-  <p>
-    Made with ❤️ by <a href="[https://github.com/guooo5](https://github.com/guooo5)">Guo Chen</a>
-  </p>
-</div>

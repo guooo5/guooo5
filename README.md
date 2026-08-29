@@ -22,7 +22,6 @@ Fun Facts:
 Currently:
 <ul>
   <li>Learning AI through Google DeepMind: AI Research Foundations</li>
-  <li>Reading "Oathbringer"</li>
 </ul>
 ---
 
